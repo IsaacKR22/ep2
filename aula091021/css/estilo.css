@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(202, 202, 202);
+}
+
+h1{
+    color: rgb(0, 0, 0);
+    background-color:red;
+    border-style:inset;
+    border-color: gainsboro;
+}
+
+a{
+    text-transform:uppercase;
+    text-decoration: none;
+    color: rgb(95, 95, 253);
+}

@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: red;
+    background-color:black;
+}
+
+
+.linkMenu{
+    text-transform:uppercase;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
